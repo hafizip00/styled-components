@@ -17,3 +17,10 @@ export const Fancy = styled(Button)`
     background-image: linear-gradient(to right , #444221 , #DDFF33);
 `
 
+export const Box = styled.section`
+    background-color: blueviolet;
+    color: white;
+    max-width: fit-content5;
+    display: flex;
+`
+
